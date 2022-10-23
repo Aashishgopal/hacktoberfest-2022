@@ -8,6 +8,11 @@
   <th>Contributor</th>
   <th>Contribution</th>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/Aashishgopal"><img src="https://avatars.githubusercontent.com/u/92500255?s=40&v=4"                   
+width="100px;" alt=""/><br /><sub><b>Aashish</b></sub></a><br /></td>
+<td align="center"><img src="C:\Users\aashi\hacktoberfest-2022\Contributors\Screenshot\Screenshot_Aashish.png"></td>
+</tr>
 
 <tr>
 <td align="center"><a href="https://github.com/Pakhi07"><img src="https://avatars.githubusercontent.com/u/92666755?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
